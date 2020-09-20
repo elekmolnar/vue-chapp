@@ -1373,6 +1373,13 @@
   resolved "https://registry.npm.taobao.org/@vue/web-component-wrapper/download/@vue/web-component-wrapper-1.2.0.tgz#bb0e46f1585a7e289b4ee6067dcc5a6ae62f1dd1"
   integrity sha1-uw5G8VhafiibTuYGfcxaauYvHdE=
 
+"@vuetify/cli-plugin-utils@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.npm.taobao.org/@vuetify/cli-plugin-utils/download/@vuetify/cli-plugin-utils-0.0.7.tgz#103e0ce504253dbe87bc7fe7e096992beac9bf9b"
+  integrity sha1-ED4M5QQlPb6HvH/n4JaZK+rJv5s=
+  dependencies:
+    semver "^7.1.2"
+
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
   resolved "https://registry.npm.taobao.org/@webassemblyjs/ast/download/@webassemblyjs/ast-1.9.0.tgz#bd850604b4042459a5a41cd7d338cbed695ed964"
@@ -8321,6 +8328,13 @@ vm-browserify@^1.0.1:
   version "1.1.2"
   resolved "https://registry.npm.taobao.org/vm-browserify/download/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha1-eGQcSIuObKkadfUR56OzKobl3aA=
+
+vue-cli-plugin-vuetify-preset-reply@~1.0.4:
+  version "1.0.4"
+  resolved "https://registry.npm.taobao.org/vue-cli-plugin-vuetify-preset-reply/download/vue-cli-plugin-vuetify-preset-reply-1.0.4.tgz#32025e0a54dee9452e88331ee4366cdcfb75c5e8"
+  integrity sha1-MgJeClTe6UUuiDMe5DZs3Pt1xeg=
+  dependencies:
+    "@vuetify/cli-plugin-utils" "^0.0.7"
 
 vue-cli-plugin-vuetify@~2.0.7:
   version "2.0.7"
